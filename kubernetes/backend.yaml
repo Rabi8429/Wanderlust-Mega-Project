@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: rabi4450/wanderlust-backend-beta:latest
+          image: rabi4450/wanderlust-backend-beta:v1
           ports:
             - containerPort: 8080
 ---
